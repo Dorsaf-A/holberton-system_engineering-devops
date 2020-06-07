@@ -1,2 +1,2 @@
 #!/bin/bash
-ind . -regex ".*\.gif" -ls
+find . -regex ".*\.gif" -ls
